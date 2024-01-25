@@ -37,3 +37,5 @@
 ## Conclusion
 
 ![Alt text](image-3.png)
+
+![image](https://github.com/jeyabalajis/document_oriented_db_notes/assets/15995686/13a06c54-83e4-4f11-9577-3144b47925c1)
